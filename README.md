@@ -1,8 +1,6 @@
 # Hello, I'm Jam 👋
 
-🎓 Computer Science student
-💻 Aspiring Software Developer
-🎮 Gamer
+### 🎓 Computer Science student | 💻 Aspiring Software Developer | 🎮 Gamer
 
 ## 🛠 Skills
 - **Languages:** Java, C++, PHP
