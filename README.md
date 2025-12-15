@@ -10,7 +10,7 @@
 ## 👤 About Me
 - 🎮 I play **Dota 2** in my free time
 - 🧠 Member of **CompSciety (Computer Science Society)** at **Bulacan State University**
-- 💡 Interested in how software solves real-world problems
+- 💡 Interested in Coding
 
 ## 📚 Current Focus
 - 🐍 Python for AI
